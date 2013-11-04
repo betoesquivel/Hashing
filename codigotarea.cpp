@@ -3,7 +3,7 @@
  *
  *       Filename:  codigotarea.cpp
  *
- *    Description:  
+ *    Description:  editando
  *
  *        Version:  1.0
  *        Created:  11/03/2013 05:27:49 PM
@@ -166,7 +166,6 @@ int main()
 
 	hashing.despliega();	
 	
-	cin>>nomarch;
 
 	return 0;
 }
